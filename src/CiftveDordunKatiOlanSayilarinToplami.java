@@ -1,12 +1,6 @@
-# Cift-ve-Dordun-Kati-Olan-Sayilarin-Toplami
-Java Çift ve Dördün Katı Olan Sayıların Toplamı
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
-    
     public static void main(String[] args) {
 
         int i = 0, total = 0;
